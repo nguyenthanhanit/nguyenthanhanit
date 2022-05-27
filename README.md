@@ -1,7 +1,7 @@
 - 👋  Hi, I’m An
 - 👀  I’m a Software Engineer
 - 🌱  I’m currently learning: ReactJS, GraphQL, NodeJS, Express
-- 📫  My official site: https://nguyenthanhan.me/
+- 📫  My official site: https://annt.me/
 
 <!---
 nguyenthanhanit/nguyenthanhanit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
